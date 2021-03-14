@@ -1,1 +1,1 @@
-## [Live Site] (https://climate4change.netlify.app/)
+## [Live Site](https://climate4change.netlify.app/)
