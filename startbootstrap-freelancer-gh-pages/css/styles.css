@@ -10152,7 +10152,7 @@ h3 {
   cursor: pointer;
   position: relative;
   display: block;
-  max-width: 25rem;
+  max-width: 70rem;
   border-radius: 0.5rem;
   overflow: hidden;
 }
@@ -10252,4 +10252,10 @@ form .row:first-child .floating-label-form-group {
 .tableauPlaceholder {
   align-items: center;  
   place-items: center;
+}
+
+.xx {
+  margin-left: 25px;
+  width: 710px;
+  height: 240px;
 }
