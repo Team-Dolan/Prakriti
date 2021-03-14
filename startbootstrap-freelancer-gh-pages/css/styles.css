@@ -10259,3 +10259,25 @@ form .row:first-child .floating-label-form-group {
   width: 710px;
   height: 240px;
 }
+
+.count-box {
+  padding: 30px 30px 25px 30px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background: rgba(87, 83, 83, 0.08);
+}
+
+.count-box span {
+  font-size: 36px;
+  display: block;
+  font-weight: 600;
+  color: #fff;
+}
+
+.count-box p {
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+}
