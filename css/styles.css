@@ -6076,6 +6076,15 @@ a.close.disabled {
   background-color: #1abc9c !important;
 }
 
+.summary-bg {
+  background-color: var(--gray-dark);
+  padding: 5%;
+  border-radius: 15px;
+  opacity: 0.66;
+}
+.summary-bg:hover{
+  opacity: 0.87;
+}
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
@@ -6320,7 +6329,7 @@ button.bg-dark:focus {
 
 video {
   width: 100%;
-  height: 87.5%;
+  height: 100%;
   position: absolute;
   object-fit: cover;
   z-index: -1;
