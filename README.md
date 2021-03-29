@@ -1,7 +1,6 @@
-<div align="center">
-  <a href="https://team-prakriti.netlify.app/">
-  <h1>No Pile On Isle</h1>
-  <img alt="Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Pitcairn_Islands.svg/800px-Coat_of_arms_of_the_Pitcairn_Islands.svg.png" width="100" />
+<a href="https://team-prakriti.netlify.app/" target="_blank"><h1>No Pile On Isle</h1></a>
+  <div align="center">
+  <img alt="Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Pitcairn_Islands.svg/800px-Coat_of_arms_of_the_Pitcairn_Islands.svg.png" width="100" /></img>
 </div>
 <p align="center">
   An iniative to start our campaign in saving Hendersen Island with our tag line "No Pile On Isle" and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
