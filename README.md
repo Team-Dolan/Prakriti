@@ -1,4 +1,4 @@
-<a href="https://team-prakriti.netlify.app/" target="_blank"><h1>No Pile On Isle</h1></a>
+<a href="https://team-prakriti.netlify.app/" target="_blank"><h1 align="center">No Pile On Isle</h1></a>
   <div align="center">
   <img alt="Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Pitcairn_Islands.svg/800px-Coat_of_arms_of_the_Pitcairn_Islands.svg.png" width="100" /></img>
 </div>
